@@ -1,0 +1,24 @@
+
+# 1 "us.c"
+
+# 3
+enum{};
+
+void initUS(){
+char d = INPUT;
+char e = INPUT;
+char f = INPUT;
+
+char a = OUTPUT;
+char b = OUTPUT;
+char c = OUTPUT;
+}
+
+void updateUS(){
+US
+}
+
+
+void updateIzq(){
+
+}
